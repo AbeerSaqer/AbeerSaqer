@@ -5,7 +5,7 @@ I always strive to develop myself to reach my goals.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=21&color=999FF7&background=C3C3C318&width=300&height=40&lines=Computer+Engineering;Problem+Solving;Digital+Marketing;Time+Management)](https://git.io/typing-svg)
 
-- 📫 How to reach me: abir.ptc.2000@gmail.com
+- 📫 How to reach me: abeersaqer2000@gmail.com
 <!--
 **AbeerSaqer/AbeerSaqer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
