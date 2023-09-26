@@ -27,6 +27,5 @@ Here are some ideas to get you started:
 ![image](https://user-images.githubusercontent.com/87999447/181461525-6fc99d06-3141-4b81-975d-493330af8a9a.png)
 ![image](https://user-images.githubusercontent.com/87999447/181461538-97546f05-938d-461c-b858-7bfff78e403f.png)
 
-### Github Summary:
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AbeerSaqer&theme=dark" alt="AbeerSaqer" /></p>
+
 
