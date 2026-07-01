@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ![image](https://user-images.githubusercontent.com/87999447/181461510-f7f92f8a-845f-41bb-9c47-47c292272c52.png)
 ![image](https://user-images.githubusercontent.com/87999447/181461525-6fc99d06-3141-4b81-975d-493330af8a9a.png)
 ![image](https://user-images.githubusercontent.com/87999447/181461538-97546f05-938d-461c-b858-7bfff78e403f.png)
-![image](https://user-images.githubusercontent.com/0e8a1521dd782b57774a87594942799c8b2b0e5fd8e9240744330b254ac25d8e/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f33352f707974686f6e2d2d76312e706e67)
+![image](https://www.python.org/community/logos/)
 
 
 
