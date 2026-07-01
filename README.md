@@ -3,7 +3,7 @@ I am a computer systems engineer, with knowledge in many areas of information te
 I always strive to develop myself to reach my goals.
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=21&color=999FF7&background=C3C3C318&width=300&height=40&lines=Computer+Engineering;Problem+Solving;Digital+Marketing;Time+Management)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=21&color=999FF7&background=C3C3C318&width=300&height=40&lines=Computer+Engineering;Problem+Solving;Digital+Marketing;Time+Management;project+management)](https://git.io/typing-svg)
 
 - 📫 How to reach me: abeersaqer2000@gmail.com
 <!--
@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 ![image](https://user-images.githubusercontent.com/87999447/181461510-f7f92f8a-845f-41bb-9c47-47c292272c52.png)
 ![image](https://user-images.githubusercontent.com/87999447/181461525-6fc99d06-3141-4b81-975d-493330af8a9a.png)
 ![image](https://user-images.githubusercontent.com/87999447/181461538-97546f05-938d-461c-b858-7bfff78e403f.png)
+![image](https://user-images.githubusercontent.com/0e8a1521dd782b57774a87594942799c8b2b0e5fd8e9240744330b254ac25d8e/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f33352f707974686f6e2d2d76312e706e67)
+
 
 
 
