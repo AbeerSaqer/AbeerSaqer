@@ -63,9 +63,12 @@ Operating Systems
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux"/>
 </p>
 <br>
-</p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbeerSaqer&show_icons=true&theme=dark&hide_border=true" alt="GitHub stats" />
-</p>
+Professional Certificate Badges
 
+<p align="left">
+  <a href="https://www.credly.com/badges/ae260f23-5106-405e-b98f-f160fe48e378" target="_blank">
+    <img src="https://images.credly.com/images/a34119f2-402f-4443-8555-ccfe2520f1df/linkedin_thumb_GCC_badge_PGM_1000x1000.png" height="120" alt="Google Project Management Professional Certificate"/>
+  </a>
+</p>
+<br>
 
