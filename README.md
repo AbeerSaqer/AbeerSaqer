@@ -30,18 +30,13 @@ Here are some ideas to get you started:
 ![image](https://user-images.githubusercontent.com/87999447/181461538-97546f05-938d-461c-b858-7bfff78e403f.png)
 -->
 
-h1 align="left">Hi there, I'm Abeer 👋✨</h1>
-I am a Computer Systems Engineer with knowledge across many areas of information technology.
-I always strive to develop myself and grow toward my goals.
 
-📫 How to reach me: abeersaqer2000@gmail.com
-
-<br>
 Programming Languages & Frameworks
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++"/>
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java"/>
+  <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python"/>
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="SQL"/>
   <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="Flutter"/>
   <img src="https://skillicons.dev/icons?i=dart" height="40" alt="Dart"/>
@@ -52,7 +47,6 @@ Technologies
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git"/>
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/>
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker"/>
 </p>
 <br>
 Tools & Software
@@ -60,7 +54,6 @@ Tools & Software
 <p align="left">
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code"/>
   <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="Android Studio"/>
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma"/>
 </p>
 <br>
 Operating Systems
@@ -70,10 +63,6 @@ Operating Systems
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux"/>
 </p>
 <br>
-GitHub Summary
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbeerSaqer&layout=compact&theme=dark&hide_border=true" alt="Top Langs" />
 </p>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=AbeerSaqer&show_icons=true&theme=dark&hide_border=true" alt="GitHub stats" />
